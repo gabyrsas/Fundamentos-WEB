@@ -1,0 +1,44 @@
+/*
+Estilo da pagima idex.html
+*/
+
+.center{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center ;
+    align-items: center;
+}
+
+#menu li{
+
+    display: inline;
+    padding: 10px;
+}
+#menu li a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 25px;
+
+}
+#menu li a:hover{
+    color: black;
+}
+.p-30{
+    padding:30px ;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+.wh-500{
+    width: 500px;
+    height: 500px;
+}
+
+/* 
+Estilo da pagima contato.html
+*/
